@@ -1,0 +1,13 @@
+{1: ['PRASHANT', 78], 2: ['ROBERT', 89], 3: ['RAVI', 78], 4: ['CHARLIE', 89], 5: ['HARRY', 76], 6: ['ADAM', 69], 7: ['MIKE', 86], 8: ['HENRY', 78], 9: ['CHRIS', 85], 10: ['BEN', 76]}
+    # std_dict = {
+    #     1: ['PRASHANT', 78],
+    #     2: ['ROBERT', 89],
+    #     3: ['RAVI', 78],
+    #     4: ['CHARLIE', 89],
+    #     5: ['HARRY', 76],
+    #     6: ['ADAM', 69],
+    #     7: ['MIKE', 86],
+    #     8: ['HENRY', 78],
+    #     9: ['CHRIS', 85],
+    #     10: ['BEN', 76]
+    # }
