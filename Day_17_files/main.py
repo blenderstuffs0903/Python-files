@@ -16,5 +16,3 @@ user_2 = Users('002', 'def')
 user_1.follow(user_2)
 print(user_2.followers)
 print(user_1.following)
-
-
